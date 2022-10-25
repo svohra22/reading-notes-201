@@ -1,7 +1,7 @@
-#h1 reading-notes-201
+# reading-notes-201
 This is my reading notes for Code 201.
 
-##h2 Markdown on GitHub
+## Markdown on GitHub
 
 - discusses basic writing and formatting syntax such as:
   - headings
