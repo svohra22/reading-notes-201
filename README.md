@@ -26,6 +26,7 @@ This is my reading notes for Code 201.
 
 
 ### Table of Contents
+
 - [Class 1 Reading](class1.md)      
 - [Class 2 Reading](class2.md)
 - [Class 3 Reading](class3.md)
@@ -42,5 +43,3 @@ This is my reading notes for Code 201.
 - [Class 14 Reading](class14.md)
 - [Class 15 Reading](class15.md)
 
-
-- [Terminal Shortcuts](cheatsheet-terminal.md)
