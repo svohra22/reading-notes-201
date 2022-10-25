@@ -14,7 +14,7 @@ This is my reading notes for Code 201.
   - etc...
 
 
-##h2 Getting Started with GitHub Pages
+## Getting Started with GitHub Pages
 
 - dicsusses how GitHub pages can be utlized to showcase open source projects, host a blog, share professionals work such as:
   - cover letters
