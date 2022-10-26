@@ -44,12 +44,10 @@ This is my reading notes for Code 201.
 - [Class 15 Reading](class15.md)
 
 
+#### Check out my GitHub profile: https://github.com/svohra22
+
+
 
 This site was built using [GitHub](https://github.com/).
-
-
-
-### Check out my GitHub profile: https://github.com/svohra22
-
 
 ![This is an image](https://img.tamindir.com/2022/05/476729/github-nedir-ne-ise-yarar-1.jpg)
