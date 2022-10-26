@@ -44,7 +44,7 @@ This is my reading notes for Code 201.
 - [Class 15 Reading](class15.md)
 
 
-#### Check out my GitHub profile:[https://github.com/svohra22](https://github.com/svohra22)
+#### Check out my GitHub profile: [https://github.com/svohra22](https://github.com/svohra22)
 
 
 
