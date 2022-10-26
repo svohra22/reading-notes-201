@@ -46,4 +46,4 @@ This is my reading notes for Code 201.
 
 **This site is built on _GitHub_** [Github.com]
 
-![This is an image]([https://miro.medium.com/max/719/0*k7H1_j7ols5Mlwse.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dexterindustries.com%2Fhowto%2Fcontribute-code-dexter-industries-projects%2F&psig=AOvVaw1qXJQWZcjsMllEIs0_f3IF&ust=1666829106529000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiaibjM_PoCFQAAAAAdAAAAABAU)
+![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fresynth1943.net%2Fgithub-source-code-leak%2F&psig=AOvVaw3OwA83alznJL7YrqaDP-Dc&ust=1666829563940000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiPj5LO_PoCFQAAAAAdAAAAABAJ)
