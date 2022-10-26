@@ -44,7 +44,7 @@ This is my reading notes for Code 201.
 - [Class 15 Reading](class15.md)
 
 
-**This site is built on _GitHub_** [Github.com]
+**This site was built using [_GitHub_**](Github.com)
 
 
 
