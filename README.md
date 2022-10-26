@@ -46,4 +46,4 @@ This is my reading notes for Code 201.
 
 **This site is built on _GitHub_** [Github.com]
 
-[(https://miro.medium.com/max/719/0*k7H1_j7ols5Mlwse.png)]
+![This is an image](https://miro.medium.com/max/719/0*k7H1_j7ols5Mlwse.png)
