@@ -1,7 +1,7 @@
 # reading-notes-201
 This is my reading notes for Code 201.
 
-## Markdown on GitHub
+## *Markdown on GitHub*
 
 - discusses basic writing and formatting syntax such as:
   - headings
@@ -14,7 +14,7 @@ This is my reading notes for Code 201.
   - etc...
 
 
-## Getting Started with GitHub Pages
+## *Getting Started with GitHub Pages*
 
 - dicsusses how GitHub pages can be utlized to showcase open source projects, host a blog, share professionals work such as:
   - cover letters
@@ -25,7 +25,7 @@ This is my reading notes for Code 201.
 - public webpages hosted and published via GitHub
 
 
-### Table of Contents
+### *Table of Contents*
 
 - [Class 1 Reading](class1.md)      
 - [Class 2 Reading](class2.md)
@@ -43,3 +43,7 @@ This is my reading notes for Code 201.
 - [Class 14 Reading](class14.md)
 - [Class 15 Reading](class15.md)
 
+
+**This site is built on _GitHub_** [Github.com]
+
+![(https://miro.medium.com/max/719/0*k7H1_j7ols5Mlwse.png)]
