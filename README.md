@@ -31,7 +31,7 @@ This is my reading notes for Code 201.
 - [Class 2 Reading](class2.md)
 - [Class 3 Reading](class3.md)
 - [Class 4 Reading](class4.md)
-- [Class 5 Reading](class5.md))
+- [Class 5 Reading](class5.md)
 - [Class 6 Reading](class6.md)
 - [Class 7 Reading](class7.md)
 - [Class 8 Reading](class8.md)
@@ -46,4 +46,4 @@ This is my reading notes for Code 201.
 
 **This site is built on _GitHub_** [Github.com]
 
-![(https://miro.medium.com/max/719/0*k7H1_j7ols5Mlwse.png)]
+[(https://miro.medium.com/max/719/0*k7H1_j7ols5Mlwse.png)]
